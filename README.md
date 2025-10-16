@@ -28,7 +28,7 @@ Para rodar este projeto no seu ambiente local, siga os passos abaixo:
 Pré-requisitos
 Certifique-se de ter o Java Development Kit (JDK) instalado (versão 17 ou superior é recomendada) e o IntelliJ IDEA.
 
-Passos
+Passos: 
 1. Clone o Repositório (Se estiver em um repositório Git):
 ``` bash
 git clone [URL_DO_SEU_REPOSITORIO]
@@ -37,7 +37,7 @@ cd nome-projeto
 
 2. Abra no IntelliJ IDEA:
 
-  - Abra o IntelliJ.
+ - Abra o IntelliJ.
 
  - Vá em File > Open e selecione a pasta raiz do projeto (ou o arquivo Desafio.java).
 
